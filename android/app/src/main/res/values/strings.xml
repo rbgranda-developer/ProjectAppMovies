@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Movies_Land</string>
+    <string name="title_activity_main">Movies_Land</string>
+    <string name="package_name">com.moviesland.app</string>
+    <string name="custom_url_scheme">com.moviesland.app</string>
+</resources>
